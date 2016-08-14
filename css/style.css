@@ -1,0 +1,64 @@
+.images{
+	margin-left: 25px;
+
+
+}
+
+
+.title{
+	font-size: 100px;
+	color: blue;
+	font-kerning: 8px;
+	padding-right: 8px;
+	padding-left: 25px;
+	display: inline-block; 
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+
+.title_2{
+	font-size: 100px;
+	color: gold;
+	font-kerning: 8px;
+	padding-right: 8px;
+	padding-left: 25px;
+	display: inline-block; 
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+.down_arrow{
+	
+	padding-left: 180px; 
+
+
+	
+}
+
+.rio{
+	text-align: left;
+}
+
+
+.images{
+	width: 80%;
+}
+
+
+
+#team_usa{
+	color: red;
+	display: none;
+	width: 40%;
+	padding-left: 25px;
+}
+
+#gold_medals{
+	color: gold;
+	display:none;
+	right: 500px;
+	width: 40%;
+	padding-left: 500px;
+}
+
